@@ -130,5 +130,3 @@ Enjoy the game! 😎
 pgsql
 Copy
 Edit
-
-Would you like to adjust any parts or keep it as is? 😎
